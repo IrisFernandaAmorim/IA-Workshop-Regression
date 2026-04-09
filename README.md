@@ -96,3 +96,5 @@ Análisis de los resultados.
 
 [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) — Kaggle
 
+---
+_Ejercicio realizado en el bootcamp de IA (P6) de Factoria F5_
